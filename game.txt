@@ -1,8 +1,0 @@
-#All the courses that are requiired for the data analytics
-1).Data Structures - Udemy(courses of the 20 hours) (each day one chapter has to be finished from tommorow)
-2).Git-Hub(ONly one day ceritifation has to be taken)
-3).Machine learning (Applied AI)(daily it has to be done one chapter with previous day revision)
-4).Python revision(every day python programming has to be practiced)(daily in the night atleast 5 program has to be procticed)
-5).DataBase (need to go through the basics)(One project with the dataset)
-6).JAVA programming basics(start from the srcatch after the data structures and git-hub along with the machine learning )
-7).data visualization(After the java it has to be done with complete project)
