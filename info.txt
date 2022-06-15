@@ -1,0 +1,11 @@
+
+2).Create a task by using Task Sceduler
+3). Check the ssytem for memory usange-- Windows memeory diagnostics
+4).Review effective permission - by looking into properties
+5).COnfigure windows file history and perform backup- create the partition file by cmd prompt and with some command and addd the back drive by setttings
+6).Configure application control policies by using local groups
+2).Create a task by using Task Sceduler
+3). Check the ssytem for memory usange-- Windows memeory diagnostics
+4).Review effective permission - by looking into properties
+5).COnfigure windows file history and perform backup- create the partition file by cmd prompt and with some command and addd the back drive by setttings
+6).Configure application control policies by using local groupsk
